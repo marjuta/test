@@ -1,1 +1,19 @@
-<mxfile host="Electron" modified="2022-07-14T07:07:05.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/19.0.3 Chrome/102.0.5005.63 Electron/19.0.3 Safari/537.36" etag="IGOtSxfRzDAvRFseTQnj" version="19.0.3" type="device"><diagram id="A9n1wvai8_kA7g3zgkug" name="Page-1">lZRNc5swEIZ/Sw8cM8NHjeOjwbF7aJrMuJMcO7JZQGOhZYRcTH99F5AMmKbjXBjp0Sut9t1FThAXl51iZf6MCQjHd5OLE2wc318uQvq2oOlB6Hk9yBRPejQCe/4HDHQNPfMEqolQIwrNyyk8opRw1BPGlMJ6KktRTKOWLIMZ2B+ZmNN3nui8p4/+cuDfgGe5jeyFq36lYFZsMqlylmA9QsGTE8QKUfej4hKDaL2zvvT7th+sXi+mQOp7NqyL76v10j03by8/IM3wdf3r9cGc8puJs0n4RR6QqYTLjPhOOXHgRHH7XW3BJKIb605V80IwSbNofh17NigNlxEy19sBFqBVQxK76hqrmpt5PTjvudbPfGT710cDmSl3dj18cIQGxpRPGOTPDHL8UFDYKKdkwqwdvXMhTlgUIEl5AE7fLcml/mK1FHqQW1hasNeQMjnSlh9K3ziILsyGyZPjU05uv5tCuc9MccnuOseCg7ol02039aZCdqnrgkzceDSstMITxChQEZHY9UJKhtygqmTHtqeCzWKY/cSSwANVNIjqnGvYE29D1fSWEEPqnVR0P03Ok4QSDyKFZ5lAWzL3n1333za/uxUX005czhvxKhn3obf6fB/SdHgEurXRSxo8/QU=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-15T06:33:29.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XfhcVyZlPcIpZzrg-nR5" version="20.1.1" type="github">
+  <diagram id="A9n1wvai8_kA7g3zgkug" name="Page-1">
+    <mxGraphModel dx="900" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AmL9A70uyVONefgoPA_P-1" value="Onboarding Grüße" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="100" y="100" width="1020" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="AmL9A70uyVONefgoPA_P-2" value="&lt;h1&gt;Willkommen bei Fluent!&lt;/h1&gt;&lt;p&gt;Stefan&lt;/p&gt;&lt;p&gt;Vielen Dank, Stefan! Marina&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="AmL9A70uyVONefgoPA_P-1" vertex="1">
+          <mxGeometry x="50" y="70" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="eGVDR3MqLzaCkpIHaV0O-1" value="Hallo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="AmL9A70uyVONefgoPA_P-1">
+          <mxGeometry x="80" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
